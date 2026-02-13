@@ -1,10 +1,25 @@
 ## 📸 Screenshots
 
-### Main Interface
-![Main Interface](images/main-interface.png)
+### Main Application Window
+![Cisco CCNA Commander Main Window](images/ccna-commander-main.png)
 
-### Search Feature
-![Search Feature](images/search-highlight.png)
+### Real-time Search with Yellow Background
+![Search with Yellow Highlighting](images/search-yellow-highlight.png)
 
-### Command Cards
-![Command Cards](images/command-card.png)
+### Configuration Card with Edit/Copy Buttons
+![Command Card Interface](images/command-card-interface.png)
+
+### Linux Operations Tab - Security Tools
+![Linux Security Commands](images/linux-security-tools.png)
+
+### Router-on-a-Stick Configuration Example
+![Inter-VLAN Routing Setup](images/router-on-stick.png)
+
+### Rich Text Editor for Notes
+![Notes Formatting Tools](images/notes-editor.png)
+
+### Add New Topic Form
+![Add Topic Dialog](images/add-topic-dialog.png)
+
+### Cross-Tab Search Results
+![Search All Tabs Results](images/search-all-tabs.png)
